@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class HormuudPage extends StatelessWidget {
+  const HormuudPage({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
